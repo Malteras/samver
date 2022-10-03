@@ -1,4 +1,3 @@
-import CxJSLogo from '../../../assets/img/cxjs.svg';
 import HeroiconsLogo from '../../../assets/img/heroicons.svg';
 import TailwindLogo from '../../../assets/img/tailwindcss-logotype.svg';
 
@@ -27,9 +26,9 @@ export default (
             </p>
 
             <div class="flex flex-wrap items-center gap-4 justify-center mt-16">
-               <a href="https://cxjs.io">
+               {/* <a href="https://cxjs.io">
                   <img src={CxJSLogo} class="h-24" />
-               </a>
+               </a> */}
                <a href="https://tailwindcss.com">
                   <img src={TailwindLogo} class="h-12" />
                </a>
